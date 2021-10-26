@@ -1,2 +1,5 @@
 # Lush-Garden
-E-shop of garden plants
+
+Advanced E-shop of garden plants
+
+Check LushGarded.pdf for detailed description of project and its functions
